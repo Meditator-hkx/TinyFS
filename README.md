@@ -16,8 +16,7 @@ PM-based file system.
 ## Data Organization
 
 |  Super Metadata | File Metadata |  Data Region | Log Region |
-| :--: | :--: | :--: | :--: |
-
+| :-: | :-: | :-: | :-: |
 | File System Metadata | Metadata for Files | File Data organized in Self-defined Chunks | Transaction Logs in Self-defined Chunks |
 
 ## Example Procedure
