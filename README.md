@@ -21,4 +21,15 @@ PM-based file system.
 
 ## Example Procedure
 
+### What happens during the filesystem initiation?
+
+### What happens during a directory creation?
+
+### What happens during a file creation?
+
 ### What happens during a file read?
+
+### What happens during a file write(append/modification)?
+
+### To be added...
+
